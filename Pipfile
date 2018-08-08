@@ -9,6 +9,8 @@ name = "pypi"
 jupyter = "*"
 matplotlib = "*"
 "bs4" = "*"
+opencv-python = "*"
+keras = "*"
 
 [requires]
 python_version = "3.7"
