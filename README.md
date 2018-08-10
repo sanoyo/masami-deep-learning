@@ -1,3 +1,5 @@
+## 【未完成】
+
 ## Nogizaka-deep-learning
 ### 処理の流れ
 1. 画像集める
